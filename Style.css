@@ -1,5 +1,3 @@
-
-
 body {
     background-color: gray;
 }
@@ -8,30 +6,28 @@ h1 {
     color: navy;
     margin-left:20px;
 }
-/* unvisited link */
+
 a:link {
     color: blue;   
     text-decoration: none;
 }
 
-/* visited link */
+
 a:visited {
     color: lightblue;
     text-decoration: none;
 }
 
-/* mouse over link */
+
 a:hover {
     color: red;
     text-decoration: underline;
 }
 
-/* selected link */
+
 a:active {
     color: red;
     text-decoration: underline;
-
-
 }
 
 
